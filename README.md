@@ -1,2 +1,2 @@
 # Cleandatapakwheels
-A linear regression project using the Pak wheels dataset.
+My first regression model using the Pak Wheels dataset.
